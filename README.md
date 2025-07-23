@@ -1,6 +1,19 @@
+# Development Environment
+
+This project was primarily developed using **Roo**, an AI software engineer.
+
+- **Tooling**: Roo for VS Code
+- **Model**: gemini-2.5-pro
+- **Modes Used**:
+    - `code`: For writing and modifying all project files.
+    - `debug`: For diagnosing initial rendering behavior.
+
+
 # Conway's Game of Life in Docker
 
 This project provides a complete, self-contained, and interactive terminal visualization of Conway's Game of Life. The entire application is designed to run inside a Docker container and is managed by a `justfile` for easy building, execution, and cleanup.
+
+![Terminal Output](./terminal-output.png)
 
 ## Features
 
